@@ -39,4 +39,13 @@ Exploring analytics driven team building and strategy in Rocket League
 
   Feedback from scouts, coaches, and managers would help determine which information should be included in the profiles and how it should be presented. Of upmost interest would be whether the identified player styles,       strengths, weaknesses, and compatibility provide useful information when selecting players or developing strategies. Feedback could then be used to refine the entire system.
 
-  
+## Reflection on Innovation and Version Control
+
+  Using separate branches allows for exploring different ideas without changing the original project. This provides a way to experiment with ideas before deciding if it should become part of the main project. 
+
+  The merge conflict also demonstrated how version control can protect changes when different versions of a project are being developed at the same time. 
+
+  GitHub can help analytics ideas gain momentum by providing a history of how an idea changed over time. Decision makers can review changes, compare them to the original idea, and provide feedback before changes are         implemented. This helps prevent an analytical idea from being implemented because it was technically possible without first determining if it provides any value. 
+
+  This example also follows the innovation framework from Chapter 7. The original project began in the creative phase with the idea of using analytics to create a strategic edge in competitive Rocket League. The player      profile was then developed separately as a prototype. Evaluating whether the profile would be useful to scouts, coaches, and managers represents engagement, while merging the accepted prototype into the main project       represents movement toward the build phase. GitHub provides a way to document and manage these phases as an analytical ideas change over time.
+
