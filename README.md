@@ -33,3 +33,10 @@ Exploring analytics driven team building and strategy in Rocket League
 
   Using this could improve decision making by leveraging analytical results that are easier for scouts, coaches and managers to use. The scouts could compare potential players based on how they may fit within a team,        while coaches could use the same information to determine player roles and develop strategies against an opponent.
 
+## Prototype Evaluation
+
+  The player profile prototype should be integrated into the main project because it builds on the ability to identify relationships between players. However, the value of the profile would depend on whether the new         information provides decision makers with something they could not easily determine using traditional statistics or their own observations.
+
+  Feedback from scouts, coaches, and managers would help determine which information should be included in the profiles and how it should be presented. Of upmost interest would be whether the identified player styles,       strengths, weaknesses, and compatibility provide useful information when selecting players or developing strategies. Feedback could then be used to refine the entire system.
+
+  
