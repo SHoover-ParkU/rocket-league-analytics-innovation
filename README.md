@@ -27,6 +27,12 @@ Exploring analytics driven team building and strategy in Rocket League
 
   The project has not reached the prototyping phase. There is currently no finished model or tool for decision makers to use. However, the goal is to develop the idea into something that scouts, coaches, and managers        could use within their existing decision-making processes.
 
+## Prototype Enhancement
+
+  The prototype would continue the ideas of the project by creating player profiles based on relationships identified within the data. Instead of providing decision makers with a collection statistics players would be       categorized by their style, strengths, weaknesses, and compatibility with different players. 
+
+  Using this could improve decision making by leveraging analytical results that are easier for scouts, coaches and managers to use. The scouts could compare potential players based on how they may fit within a team,        while coaches could use the same information to determine player roles and develop strategies against an opponent.
+
 ## Prototype Evaluation
 
   The player profile prototype should be integrated into the main project because it builds on the ability to identify relationships between players. However, the value of the profile would depend on whether the new         information provides decision makers with something they could not easily determine using traditional statistics or their own observations.
